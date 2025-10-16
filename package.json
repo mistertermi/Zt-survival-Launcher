@@ -2,7 +2,7 @@
     "name": "zt-survival-Launcher",
     "preductname": "zt-survival-Launcher",
     "version": "1.0.0",
-    "description": "Launcher Mincraft pour le serveur Selvania",
+    "description": "Launcher ztsurvival",
     "main": "src/app.js",
     "author": {
         "name": "luuxis, Mister-Termi, Inc.",
