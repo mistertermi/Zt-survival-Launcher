@@ -1,7 +1,7 @@
 {
     "name": "zt-survival-Launcher",
     "preductname": "zt-survival-Launcher",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Launcher ztsurvival",
     "main": "src/app.js",
     "author": {
